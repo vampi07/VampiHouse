@@ -3,6 +3,8 @@ const text = document.getElementById('movingText');
 
 // Variable para controlar la posición y dirección del movimiento
 let position = 0;
+
+
 let movingRight = true;  // Indica si el texto se mueve hacia la derecha
 
 // Calcula el centro de la pantalla (punto medio)
