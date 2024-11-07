@@ -419,7 +419,7 @@ h2 {
         display: initial;
      }
  .header {
-    min-height: 100px;
+    min-height: 200px;
  }
  .header-content {
     padding: 100px 30px;
