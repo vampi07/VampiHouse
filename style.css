@@ -34,7 +34,7 @@ body {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 200vh;
+    min-height: 70vh;
     align-items: center;
     display: flex;
 }
@@ -419,10 +419,10 @@ h2 {
         display: initial;
      }
  .header {
-    min-height: 200px;
+    min-height: 100px;
  }
  .header-content {
-    padding: 100px 80px;
+    padding: 100px 30px;
  }
  .header-txt h1 {
     font-size: 50px;
