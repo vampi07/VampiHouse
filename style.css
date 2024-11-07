@@ -424,6 +424,7 @@ h2 {
  .header-content {
     padding: 80px 30px;
     height: 400px;
+    display: flex;
  }
  .header-txt h1 {
     font-size: 50px;
