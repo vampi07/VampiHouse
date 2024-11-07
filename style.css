@@ -420,6 +420,7 @@ h2 {
      }
  .header {
     min-height: 100px;
+    height: 800px;
  }
  .header-content {
     padding: 80px 30px;
