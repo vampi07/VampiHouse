@@ -433,6 +433,7 @@ h2 {
  }
  .header-txt p {
     padding: 0;
+    margin-top: 2px;
  }
  .header-txt2 h1 {
     font-size: 50px;
