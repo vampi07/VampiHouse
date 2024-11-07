@@ -67,6 +67,8 @@ body {
     font-weight: bold;
 }
 
+
+
 .menu .navbar ul li a:hover {
     color: #0d0101;
 }
@@ -459,8 +461,8 @@ h2 {
  .general-4,
  .general-5,
  .general-6 {
-    height: 250px;
-    padding: 100px;
+    height: 600px;
+    padding: 140px;
     margin-bottom: 10px;
  }
  .nai-1 {
