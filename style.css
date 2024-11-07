@@ -376,16 +376,14 @@ h2 {
 
 
 
-@media (max-width:768px) {
+
+@media(max-width:991px) {
     .vamp-1 {
         width: 30px;
         height: 30px;
         background-position: center center;
         margin-top: 2%;
     }
-}
-
-@media (max-width:768px) {
     .vamp-2 {
         width: 40px;
         height: 40px;
@@ -394,10 +392,6 @@ h2 {
         position: absolute;
         margin-right: 80%;
     }
-}
-
-@media(max-width:768px) {
-    
  .menu {
     top: 0;
     padding: 0;
