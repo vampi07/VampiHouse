@@ -424,7 +424,7 @@ h2 {
  .header-content {
     padding: 80px 30px;
     height: 400px;
-    display: flex;
+    margin-bottom: 60px;
  }
  .header-txt h1 {
     font-size: 50px;
@@ -433,7 +433,6 @@ h2 {
  }
  .header-txt p {
     padding: 0;
-    margin-top: 2px;
  }
  .header-txt2 h1 {
     font-size: 50px;
